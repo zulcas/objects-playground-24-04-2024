@@ -42,11 +42,11 @@ function buscarPez(banco_peces, pezBuscado) {
 }
 
 // Esta llamada debería devolver 'true'
-// console.log(banco_peces, 'Nemo'); 
+// console.log(buscarPez(banco_peces, 'Nemo')); 
 
 // Esta llamada debería devolver 'true'
-// console.log(banco_peces, 'Sipho');
+// console.log(buscarPez(banco_peces, 'Sipho'));
 
 // Esta llamada debería devolver 'false'
-// console.log(banco_peces, 'Tenacitas');
+// console.log(buscarPez(banco_peces, 'Tenacitas'));
 
