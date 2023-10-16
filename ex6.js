@@ -1,5 +1,7 @@
 /**
  * Completa cada pregunta . Cada una de ellas requiere de una única línea de código. Cambia cada undefined por la sentencia JavaScript adecuada
+ *
+ * https://oscarm.tinytake.com/msc/ODgxMTUwMF8yMjI0MDg1MA
  */
 
 const robot = {
@@ -74,22 +76,10 @@ console.log(
   undefined
 );
 
-console.log(
-  "Devuelve un true o un false indicando si, entre los movimientos del robot, existe la capacidad de 'volar' ",
-  undefined
-);
-
 /**
- * Escribe 3 líneas JavaScript para ejecutar las siguientes acciones del robot:
+ * Escribe 3 líneas JavaScript para ejecutar las siguientes acciones del robot. Debe ejecutar 3 métodos:
  *
- * 1. Enciende el robot
- * 2. Carga la batería del robot
+ * 1. Activar el robot
+ * 2. Carga la batería del robot 500 unidades
  * 3. Indica al robot que relice la tarea de "caminar"
  *  */
-
-/**
- * BONUS! Modifica el método 'realizarTarea' para que solo realice las tareas que realmente puede hacer. Ejemplo:
- *
- * robot.realizarTarea('volar') , debería indicar por consola: "Este robot no puede volar"
- *
- */
