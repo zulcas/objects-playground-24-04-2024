@@ -83,3 +83,7 @@ console.log(
  * 2. Carga la batería del robot 500 unidades
  * 3. Indica al robot que relice la tarea de "caminar"
  *  */
+
+robot.activar() //activar robot
+robot.cargarBateria(500); //cargar bateria
+robot.realizarTarea("caminar") //caminar

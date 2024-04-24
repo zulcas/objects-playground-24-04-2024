@@ -8,6 +8,8 @@ let vacuna = {
 
 /**
  * Escribe una setencia que muestre por consola la efectividad de la vacuna. SOLO debe mostrar el valor de la propiedad 'efectividad'
+ * 
  *
  * Resultado esperado: https://oscarm.tinytake.com/msc/ODgxMTQ2MF8yMjI0MDgxMA
  */
+console.log("El valor de la efectividad de la vacuna es: " + vacuna.efectividad);
